@@ -57,3 +57,6 @@ a{
     border: 2px solid green;
     text-decoration: none;
 }
+img{
+    overflow: hidden;
+}
