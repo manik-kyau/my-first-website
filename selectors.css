@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+}.hedding{
+    color: rgb(43, 63, 12);
+    
+   font-style: italic;
+
+}
+#para{
+    text-align: justify;
+    color: deeppink;
+}
+.container{
+    box-shadow:  4px 4px 10px 5px rgb(41, 39, 39); 
+    margin: 50px;
+    /*height: 300px;*/
+    border: 1px solid green;
+    background-color: rgb(231, 229, 229);
+    overflow: scroll;
+    position:sticky;
+
+    background-image: url('../My first website/4.jpg') ;
+    background-size: 100%;
+    background-repeat:no-repeat;
+    background-size:cover ;
+    /*background-size: contain;*/
+    
+}
+ul{
+    /*background-color: yellowgreen;*/
+}
+li{
+    /*background-color: green;*/
+    color: green;
+}
+.line{
+    /*position: absolute;
+    position: relative;
+    border: 1px solid;*/
+    padding: 2px;
+    margin-top: 20px;
+    margin-left: 35px;
+    box-shadow: 4px 4px 10px 6px black;
+    color: red;
+    width: 300px;
+    background-color: yellow;
+    border-radius: 12px;
+    display: inline-block;
+}
+.aline{
+    text-align: center;
+    /*text-shadow: 4px 4px 8px 2px rgb(49, 48, 48);*/
+}
+a{
+    margin-bottom: 10;
+    /*display: block;*/
+    border: 2px solid green;
+    text-decoration: none;
+}
